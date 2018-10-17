@@ -13,9 +13,16 @@ h1{
     width: 300px;
     height: 60px;
     border-radius: 3px;
-    position:absolute;
 }
 
 #title{
     margin-left: 60px;
+}
+
+#case{
+    margin-left: 42px;
+    width: 200px;
+    height: 300px;
+    background-color: gainsboro;
+    border-radius: 10px;
 }
